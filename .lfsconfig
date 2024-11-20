@@ -1,2 +1,2 @@
 [lfs]
-url = "https://git.arcaneum-lab.org/Arcaneum-LAB/test-lfs/info/lfs"
+url = "ssh://git@git.arcaneum-lab.org:2022/Arcaneum-LAB/test-lfs.git/info/lfs"
